@@ -145,8 +145,11 @@ export default function LandingPage() {
       background={{ variant: "plain" }}
       tag="Get in touch"
       title="Ready to Start Your Project?"
-      description="Let's bring your vision to life. Call us today to discuss your next construction or interior design project."
-      buttons={[{ text: "Call Now: 8750615350", href: "tel:+918750615350" }]}
+      description="Let's bring your vision to life. Visit us at D1/925, Bhalswa Dairy, Delhi, call +91 8750615350, or email us at Hamzaenterprises040@gmail.com."
+      buttons={[
+        { text: "Call Now", href: "tel:+918750615350" },
+        { text: "Follow on Instagram", href: "https://www.instagram.com/hamza_enterprise?igsh=MXBmdXY5czJwOHAxeg%3D%3D&utm_source=qr" }
+      ]}
     />
   </div>
 
@@ -154,7 +157,11 @@ export default function LandingPage() {
       <FooterSimple
       columns={[
         { title: "Hamza Enterprises", items: [{ label: "About Us", href: "#about" }, { label: "Services", href: "#features" }] },
-        { title: "Contact", items: [{ label: "8750615350", href: "tel:+918750615350" }, { label: "Hamzaenterprises040@gmail.com", href: "mailto:Hamzaenterprises040@gmail.com" }] }
+        { title: "Contact", items: [
+          { label: "Phone: +91 8750615350", href: "tel:+918750615350" }, 
+          { label: "Email: Hamzaenterprises040@gmail.com", href: "mailto:Hamzaenterprises040@gmail.com" },
+          { label: "Instagram", href: "https://www.instagram.com/hamza_enterprise?igsh=MXBmdXY5czJwOHAxeg%3D%3D&utm_source=qr" }
+        ] }
       ]}
       bottomLeftText="© 2025 Hamza Enterprises. All rights reserved."
       bottomRightText="D1/925, Bhalswa Dairy, Delhi."
