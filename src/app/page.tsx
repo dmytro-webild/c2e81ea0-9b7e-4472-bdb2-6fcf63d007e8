@@ -69,7 +69,7 @@ export default function LandingPage() {
           href: "#about",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/single-orange-table-tennis-ball-against-solid-black-background_1308-189582.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/single-orange-table-tennis-ball-against-solid-black-background_1308-189582.jpg?_wi=1"
       mediaAnimation="slide-up"
     />
   </div>
@@ -79,7 +79,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       title="Crafting Excellence Since Our Inception"
       description="Hamza Enterprises is your premier partner for construction and home interior needs. We specialize in bespoke furniture for homes, hotels, and stations, delivering precision-engineered 2D and 3D designs that redefine your space."
-      imageSrc="http://img.b2bpic.net/free-photo/close-up-seller-car-dealership_23-2149106140.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/close-up-seller-car-dealership_23-2149106140.jpg?_wi=1"
     />
   </div>
 
@@ -98,7 +98,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/male-carpenter-cuts-wood-with-electric-jigsaw-working-with-tree_169016-12891.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/single-orange-table-tennis-ball-against-solid-black-background_1308-189582.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/single-orange-table-tennis-ball-against-solid-black-background_1308-189582.jpg?_wi=2",
           imageAlt: "cnc router woodworking tool",
         },
         {
@@ -110,7 +110,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/striped-texture-with-highlights-shadows_23-2148179816.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-seller-car-dealership_23-2149106140.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-seller-car-dealership_23-2149106140.jpg?_wi=2",
           imageAlt: "cnc router woodworking tool",
         },
         {
@@ -122,7 +122,7 @@ export default function LandingPage() {
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/part-modern-kitchen-interior-with-oven_169016-19754.jpg",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/successful-businesswoman-smiling-looking-confident-happy-standing-suit-street-leans-her_1258-193996.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/successful-businesswoman-smiling-looking-confident-happy-standing-suit-street-leans-her_1258-193996.jpg?_wi=1",
           imageAlt: "cnc router woodworking tool",
         },
       ]}
@@ -179,7 +179,7 @@ export default function LandingPage() {
           role: "Hotel Owner",
           company: "Grand Palace",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/successful-businesswoman-smiling-looking-confident-happy-standing-suit-street-leans-her_1258-193996.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/successful-businesswoman-smiling-looking-confident-happy-standing-suit-street-leans-her_1258-193996.jpg?_wi=2",
         },
         {
           id: "2",
